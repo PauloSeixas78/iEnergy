@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.IEnergy">
         <activity
+            android:name=".CadastroEquipamento"
+            android:exported="false" />
+        <activity
+            android:name=".ListaEquipamentos"
+            android:exported="false" />
+        <activity
+            android:name=".TelaMedicao"
+            android:exported="false" />
+        <activity
+            android:name=".TelaPrincipal"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
