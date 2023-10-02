@@ -4,19 +4,22 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginStart="30dp"
+    android:layout_marginTop="30dp"
+    android:layout_marginEnd="30dp"
     android:orientation="vertical"
     tools:context=".TelaPrincipal">
 
-
-    <ImageButton
-        android:id="@+id/imageButton"
+    <Button
+        android:id="@+id/buttonMedicao"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:text="@string/activity_tela_principal_medicao" />
 
-    <ImageButton
-        android:id="@+id/imageButton2"
+    <Button
+        android:id="@+id/buttonControleEquipamento"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:layout_marginTop="30dp"
+        android:text="@string/activity_tela_principal_controle_equipamentos" />
 </LinearLayout>

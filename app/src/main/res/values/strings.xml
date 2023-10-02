@@ -4,4 +4,13 @@
     <string name="activity_main_senha">Senha</string>
     <string name="activity_main_entrar">Entrar</string>
     <string name="activity_main_esqueci">Esqueceu a senha</string>
+    <string name="activity_main_erro_autenticacao">Usuário ou senha inválidos</string>
+
+    <string name="activity_tela_principal_medicao">Consumo</string>
+    <string name="activity_tela_principal_controle_equipamentos">Controle de equipamentos</string>
+
+    <string name="activity_tela_medicao_consumo_atual">Consumo atual</string>
+    <string name="activity_tela_medicao_consumo_acumulado">Consumo acumulado</string>
+    <string name="activity_tela_medicao_consumo_valor">Valor da conta</string>
+
 </resources>

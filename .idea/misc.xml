@@ -3,17 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/iEnergy/app/src/main/res/layout/activity_cadastro_equipamento.xml" value="0.13768115942028986" />
-        <entry key="..\:/iEnergy/app/src/main/res/layout/activity_lista_equipamentos.xml" value="0.13768115942028986" />
-        <entry key="..\:/iEnergy/app/src/main/res/layout/activity_main.xml" value="0.18" />
-        <entry key="..\:/iEnergy/app/src/main/res/layout/activity_tela_medicao.xml" value="0.13768115942028986" />
-        <entry key="..\:/iEnergy/app/src/main/res/layout/activity_tela_principal.xml" value="0.14270833333333333" />
-        <entry key="..\:/iEnergy/app/src/main/res/layout/item_customizado.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/61366935268/StudioProjects/iEnergy/app/src/main/res/layout/activity_lista_equipamentos.xml" value="0.12228260869565218" />
+        <entry key="..\:/Users/61366935268/StudioProjects/iEnergy/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/61366935268/StudioProjects/iEnergy/app/src/main/res/layout/activity_tela_medicao.xml" value="0.12182971014492754" />
+        <entry key="..\:/Users/61366935268/StudioProjects/iEnergy/app/src/main/res/layout/activity_tela_principal.xml" value="0.16" />
       </map>
     </option>
   </component>
-  <component name="ExternalStorageConfigurationManager" enabled="true" />
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

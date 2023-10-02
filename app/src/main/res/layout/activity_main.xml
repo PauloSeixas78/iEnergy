@@ -16,12 +16,12 @@
         android:text="@string/activity_main_usuario" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName"
+        android:id="@+id/editTextUsuario"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:text="teste" />
 
     <TextView
         android:id="@+id/textView"
@@ -31,18 +31,19 @@
         android:text="@string/activity_main_senha" />
 
     <EditText
-        android:id="@+id/editTextTextPersonName2"
+        android:id="@+id/editTextSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="Name" />
+        android:text="teste" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonEntrar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
+        android:onClick="entrarOnClick"
         android:text="@string/activity_main_entrar" />
 
     <LinearLayout
